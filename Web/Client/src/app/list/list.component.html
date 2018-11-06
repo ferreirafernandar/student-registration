@@ -1,0 +1,25 @@
+<div class="col-md-12">
+  <h2 class="text-center"> Student Registration</h2>
+  <button class="btn btn-danger text-center" (click)="addStudent()"> Add Student</button> <br><br>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th class="hidden">Id</th>
+      <th>Name</th>
+      <th>CPF</th>
+      <th>Phones</th>
+      <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let student of students; let i = index">
+      <td class="hidden">{{student.studentId}}</td>
+      <td>{{student.name}}</td>
+      <td>{{student.cpf}}</td>
+      <td> <p *ngFor="let phone of student.phones">{{phone.number}}</p></td>
+      <td><button class="btn btn-danger" (click)="deleteStudent(student)"> Delete</button>
+        <button class="btn btn-danger" (click)="editStudent(student)" style="margin-left: 20px;"> Edit</button></td>
+    </tr>
+    </tbody>
+  </table>
+</div>

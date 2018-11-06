@@ -1,0 +1,28 @@
+<div class="col-md-12">
+  <h2 class="text-center">Edit User</h2>
+  <form [formGroup]="editForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="email">Name</label>
+      <input type="email" formControlName="name" placeholder="Name" name="name" class="form-control" id="name">
+    </div>
+
+    <div class="form-group">
+      <label for="firstName">CPF</label>
+      <input formControlName="cpf" placeholder="CPF" name="cpf" class="form-control" id="cpf">
+    </div>
+
+    <div class="form-group">
+      <label for="lastName">Phones:</label>
+      <input formControlName="phone.number" placeholder="Number" name="phone.number" class="form-control" id="phone.number">
+      <label for="exampleFormControlSelect1">Type select</label>
+      <select class="form-control" id="exampleFormControlSelect1">
+        <option value="1">Commercial</option>
+        <option value="2">Residential</option>
+        <option value="3">Cell Phone</option>
+        <option value="4">Others</option>
+      </select>
+    </div>
+
+    <button class="btn btn-success">Update</button>
+  </form>
+</div>

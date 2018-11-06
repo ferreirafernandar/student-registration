@@ -1,0 +1,15 @@
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\bin\Debug\netcoreapp2.1\StudentRegistration.deps.json
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\bin\Debug\netcoreapp2.1\StudentRegistration.runtimeconfig.json
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\bin\Debug\netcoreapp2.1\StudentRegistration.runtimeconfig.dev.json
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\bin\Debug\netcoreapp2.1\StudentRegistration.dll
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\bin\Debug\netcoreapp2.1\StudentRegistration.pdb
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.csprojAssemblyReference.cache
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.csproj.CoreCompileInputs.cache
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.RazorAssemblyInfo.cache
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.RazorAssemblyInfo.cs
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.AssemblyInfoInputs.cache
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.AssemblyInfo.cs
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.RazorTargetAssemblyInfo.cache
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.dll
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\obj\Debug\netcoreapp2.1\StudentRegistration.pdb
+D:\Projetos\Meus Projetos\StudentRegistration\StudentRegistration\bin\Debug\netcoreapp2.1\StudentRegistration.xml
